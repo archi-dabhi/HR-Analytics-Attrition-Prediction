@@ -64,7 +64,7 @@ The main goals of this analysis are:
 
 ---
 
-## 📊 Key Results  
+## Key Results  
 - **Best Model**: Tuned Random Forest Classifier  
 - **Accuracy**: ~87%  
 - **Precision**: ~84% | **Recall**: ~81% | **F1-Score**: ~82%  
