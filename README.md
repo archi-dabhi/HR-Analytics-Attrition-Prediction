@@ -62,3 +62,13 @@ The main goals of this analysis are:
 - **Identify Key Factors** – Understand the most significant features influencing attrition.  
 - **Provide Insights** – Help HR departments implement strategies to improve employee retention.  
 
+---
+
+## 📊 Key Results  
+- **Best Model**: Tuned Random Forest Classifier  
+- **Accuracy**: ~87%  
+- **Precision**: ~84% | **Recall**: ~81% | **F1-Score**: ~82%  
+- **Top Features**: Overtime, Monthly Income, Years at Company, Job Satisfaction, Age  
+
+---
+
